@@ -1,4 +1,4 @@
-# pool-05122021
+# undergroundpool-05122021
 # This scene can only be rendered using Cycles.
 # It is only suitable for a fixed camera.
 # Modifications and secondary distribution are allowed, the author must be credited.
